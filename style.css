@@ -23,7 +23,6 @@ p {
 
 #image {
   display: flex;
-  position: relative;
   width: 100%;
 }
 
@@ -31,8 +30,7 @@ p {
   border: white;
   border-width: 50px 80px 0px 80px;
   border-style: solid;
-  width: 86%;
-  margin: auto;
+  margin: 10px;
 }
 
 #img-caption {
